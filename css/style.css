@@ -182,24 +182,6 @@ button i {
 .educationsection h5{
     font-size: 16px;
 }
-/*
-.education-content .bachelor{
-    width: 30%;
-    height: 300px;
-    float: left;
-}
-
-.education-content .masters{
-    width: 30%;
-    height: 300px;
-    float: left;
-}
-
-.education-content .web-dev{
-    width: 30%;
-    height: 300px;
-    float: left;
-}*/
 
 /*section 3*/
 
@@ -250,7 +232,7 @@ button i {
 .section4-box {
     width: 800px;
     height: 200px;
-    background-image: url(images/section4-bg.png);
+    background-image: url(../images/section4-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 100px auto;
