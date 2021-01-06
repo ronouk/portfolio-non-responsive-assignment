@@ -250,7 +250,7 @@ button i {
 .section4-box {
     width: 800px;
     height: 200px;
-    background-image: url(/images/section4-bg.png);
+    background-image: url(images/section4-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 100px auto;
